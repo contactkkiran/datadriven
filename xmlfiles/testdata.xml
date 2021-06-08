@@ -1,0 +1,19 @@
+<?xml version = "1.0"?>
+<Userlogins>
+	<userlogin>
+		<username>XML_pavanoltraining@gmail.com</username>
+		<password>Test@123</password>
+
+	</userlogin>
+	<userlogin>
+		<username>XML_kirantraining@gmail.com</username>
+		<password>Tester@123</password>
+
+	</userlogin>
+	<userlogin>
+		<username>XML_Madanltraining@gmail.com</username>
+		<password>Tests@123</password>
+
+	</userlogin>
+
+</Userlogins>
